@@ -1,3 +1,7 @@
+# Wacky Flip
+
+Play Wacky Flip and flip your way to victory!
+
 ## Wacky Flip
 
 Join the flipping challenge, time your jump, land, and beat all challenging levels that [Wacky Flip](https://wackyflip.io/) brings!
